@@ -1,0 +1,6 @@
+1. setup realtime database
+2. install react js 16 > because using react hooks
+3. install modules, firebase, reactstrap, bootstrap, react-dom, react-scroll-to-bottom, react-router-dom, moment 
+4. create firebase configuration on file Firebase.js
+5. add react router dom, wrap App component in index.js with BrowserRouter
+6. implement login
